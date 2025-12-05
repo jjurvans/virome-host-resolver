@@ -72,7 +72,7 @@ If you use this pipeline, please cite the repository and the APIs used:
 - Biopython: Cock PJA, Antao T, Chang JT, et al. Biopython: Freely available Python tools for computational molecular biology and bioinformatics. Bioinformatics 2009.
 - NCBI Entrez: Sayers EW, et al. Database resources of the National Center for Biotechnology Information. Nucleic Acids Research 48(D1):D9–D16 (2020). https://doi.org/10.1093/nar/gkz899
 - GNverifier: Mozzherin, D. (2025). GNverifier -- a reconciler and resolver of scientific names against more than 100 data sources. (v1.3.0). Zenodo. https://doi.org/10.5281/zenodo.17245658
-- GBIF Species API: GBIF Secretariat. GBIF Species API. https://api.gbif.org/v1/species
+- GBIF Species API: www.gbif.org.
 
 ### Contact
 
