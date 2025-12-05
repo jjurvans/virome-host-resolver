@@ -34,7 +34,7 @@ from Bio import Entrez
 # =========================
 
 # Input virus detection tables (TSV)
-DETECTIONS_24 = "2024_2025_detected_virus.tsv"
+DETECTIONS_00 = "detected_viruses.tsv"
 
 # Entrez credentials (NCBI)
 ENTREZ_EMAIL = "X"  # <-- set this
@@ -415,7 +415,7 @@ def gbif_taxonomy(scientific_name: str) -> Optional[dict]:
 
 def main():
     # --- 1) Load and pool detections ---
-    detections = pd.read_csv(DETECTIONS_24, sep="\t")
+    detections = pd.read_csv(DETECTIONS_00, sep="\t")
 
     acc_col = pick_col(detections, ACC_COLS)
     name_col = pick_col(detections, NAME_COLS)
