@@ -61,3 +61,14 @@ If you use this pipeline, please cite the repository and the APIs used:
 - NCBI Entrez: Sayers EW, et al. Database resources of the National Center for Biotechnology Information. Nucleic Acids Research 48(D1):D9–D16 (2020). https://doi.org/10.1093/nar/gkz899
 - GNverifier: Pyle RL. Global Names Architecture: A unified approach to managing the diversity of life. Bionomina 2016, 10: 1–11. https://doi.org/10.11646/bionomina.10.1.1
 - GBIF Species API: GBIF Secretariat. GBIF Species API. https://api.gbif.org/v1/species
+
+### Contact
+
+This repository is maintained by Jaana Jurvansuu, PhD, Adjunct Professor, AIvoa — Applied AI and Modelling for Biological Sciences.  
+
+For collaboration or implementation enquiries, please connect via [LinkedIn](https://www.linkedin.com/in/jaanajurvansuu/).
+
+### **Note**
+
+The original scripts were generated with assistance from ChatGPT (OpenAI) and has been subsequently reviewed, modified, and tested by the repository author.
+
