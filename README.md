@@ -1,6 +1,18 @@
 # Wastewater Virome Host-Resolution Pipeline
 
-This repository contains scripts for processing wastewater virome detections, inferring most probable viral hosts using NCBI Entrez metadata, extracting unique host names, and resolving them to canonical taxonomy using GNverifier and GBIF.
+
+
+
+
+
+<img width="1579" height="360" alt="Githubi 001" src="https://github.com/user-attachments/assets/9fd7a3ad-9b25-48ed-9961-743f1a9d53a8" />
+
+
+
+
+
+
+This repository contains script for processing wastewater virome detections, inferring most probable viral hosts using NCBI Entrez metadata, extracting unique host names, and resolving them to canonical taxonomy using GNverifier and GBIF.
 
 ## Overview
 
